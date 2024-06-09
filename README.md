@@ -52,7 +52,7 @@ Apply database migrations to create the necessary schema:
 npx prisma migrate dev
 ```
 
-#### 5. See the database
+#### 5. Seed the database
 
 Seed the database with some initial data:
 
