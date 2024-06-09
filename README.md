@@ -8,7 +8,7 @@ Develop an API that allows Modjo customers to access their calls metadata, trans
 
 This API is built using [NestJS](https://nestjs.com/) and [Prisma](https://www.prisma.io/). It uses a [PostgreSQL](https://www.postgresql.org/) database to store calls data and provides a comprehensive API documentation with [Swagger](https://docs.nestjs.com/openapi/introduction/).
 
-## Prerequisites
+### Prerequisites
 
 - Node.js and npm installed
 - Docker installed
